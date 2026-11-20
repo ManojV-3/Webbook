@@ -1,2 +1,1 @@
 print("Mysuru")
-print("VVCE")
